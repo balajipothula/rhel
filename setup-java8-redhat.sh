@@ -5,7 +5,7 @@
 # Description : Installing java on rhel, ubuntu.
 
 # installing java-1.8.0 on rhel.
-sudo yum -y install java-1.8.0-openjdk-devel
+sudo yum -y install java-1.8.0-openjdk
 
 # installing java-1.8.0 on ubuntu.
 sudo apt -y install openjdk-8-jdk
